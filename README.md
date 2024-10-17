@@ -1,5 +1,8 @@
 # CSYE7270-Unreal-Engine-Blueprints-MotionMatching-Metahuman-SimpleWorld
 Unreal Engine Blueprints project, to test out Motion Matching, Metahuman imports, Animations, Blueprints, World building.
+
+Youtube video link : [![Watch the video](https://img.youtube.com/vi/cQKor0RWh8E/maxresdefault.jpg)](https://youtu.be/cQKor0RWh8E) https://youtu.be/cQKor0RWh8E
+
 These are the following features I've added to my version of Assignment 3 - Blueprints in Unreal Engine 5 :
 
 1. Added Light toggle effects
